@@ -6,12 +6,6 @@ This repository contains a Jupyter notebook that explores the dialogues from the
 ## Data Source
 The dataset for this project was obtained from [Kaggle](https://www.kaggle.com/datasets/gulsahdemiryurek/harry-potter-dataset). It comprises dialogues from the first three Harry Potter movies. It is meticulously cleaned and prepared, for subsequent analysis.
 
-## Installation
-Instructions on setting up the environment and installing the necessary libraries (e.g., NLTK, pandas, matplotlib) to run the Jupyter notebook.
-
-## Usage
-Detailed steps on how to execute the notebook to reproduce the analysis and explore the findings.
-
 ## Methodology
 - **Data Preparation:** Overview of data cleaning and combination techniques.
 - **EDA:** Initial exploratory data analysis to understand the dataset's basic structure and patterns.
